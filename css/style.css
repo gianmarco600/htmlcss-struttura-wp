@@ -47,19 +47,19 @@ header{
     margin-bottom: 15px;
 }
 
-.top-sect{
+.top-subsect{
     width: 100%;
     height: 50px;               /*da rimuovere in seguito */
     margin-bottom: 15px;
     float: none;
 }
 
-.side-sect{
+.side-subsect{
     width: 20%;
     height: 400px;              /*da rimuovere in seguito */
 }
 
-.main-sect{
+.main-subsect{
     width: 56%;
     margin: 0 2%;
     height: 400px;              /*da rimuovere in seguito */ 
